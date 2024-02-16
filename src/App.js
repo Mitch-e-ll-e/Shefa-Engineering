@@ -1,11 +1,11 @@
 import React from "react";
-import Frame2 from "../src/assets/Frame2.png";
+import Frame3 from "../src/assets/Frame3.png";
 import './App.css';
 
 function App() {
   return (
     <div className="container">
-      <img src={Frame2} alt="image1" className="shefa"/>
+      <img src={Frame3} alt="image1" className="shefa"/>
     </div>
   );
 }
